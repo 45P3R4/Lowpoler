@@ -1,0 +1,24 @@
+{
+  "name": "lowpoler",
+  "version": "0.0.1",
+  "description": "Website about lowpoly models",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/45P3R4/lowpoler.git"
+  },
+  "keywords": [
+    "lowpoly",
+    "3d",
+    "model"
+  ],
+  "author": "45P3R4",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/45P3R4/lowpoler/issues"
+  },
+  "homepage": "https://github.com/45P3R4/lowpoler#readme"
+}
