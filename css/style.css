@@ -45,7 +45,7 @@ input {
 }
 
 input[type=text] {
-    background-image: url("/img/icons/search.png");
+    background-image: url("../img/icons/search.png");
     background-repeat: no-repeat;
     background-position: 3px 3px;
     padding-left: 35px;

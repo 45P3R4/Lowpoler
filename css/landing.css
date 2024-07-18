@@ -4,7 +4,7 @@
 }
 
 .landing {
-    background-image: url("./img/background.png");
+    background-image: url("../img/background.png");
     display: flex;
     justify-content: center;
     align-items: center;
