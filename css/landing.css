@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "polya";
+    src: url("/font/POLYA.otf");
+}
+
+.landing {
+    background-image: url("/img/background.png");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border-bottom: 1px solid var(--color-second);
+}
+
+a img:hover {
+    filter: drop-shadow(0 0 10px#AAAAAA);
+}
